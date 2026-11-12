@@ -1,0 +1,77 @@
+[
+  {
+    "order_id": "ORD101",
+    "customer_name": "Priya Nair",
+    "items": [{"name": "Wireless Headphones", "quantity": 1}],
+    "status": "Shipped",
+    "order_date": "2026-11-08",
+    "estimated_delivery": "2026-11-16",
+    "status_note": "Shipped from the warehouse."
+  },
+  {
+    "order_id": "ORD102",
+    "customer_name": "Rahul Verma",
+    "items": [{"name": "Running Shoes", "quantity": 1}],
+    "status": "Placed",
+    "order_date": "2026-11-10",
+    "estimated_delivery": "2026-11-18",
+    "status_note": "Order confirmed, preparing for dispatch."
+  },
+  {
+    "order_id": "ORD103",
+    "customer_name": "Meera Iyer",
+    "items": [{"name": "Coffee Maker", "quantity": 1}],
+    "status": "Out for Delivery",
+    "order_date": "2026-11-06",
+    "estimated_delivery": "2026-11-11",
+    "status_note": "With the delivery agent today."
+  },
+  {
+    "order_id": "ORD104",
+    "customer_name": "Arjun Mehta",
+    "items": [{"name": "Backpack", "quantity": 1}],
+    "status": "Delivered",
+    "order_date": "2026-11-02",
+    "estimated_delivery": "2026-11-08",
+    "delivered_on": "2026-11-08",
+    "status_note": "Delivered."
+  },
+  {
+    "order_id": "ORD105",
+    "customer_name": "Sneha Reddy",
+    "items": [{"name": "Desk Lamp", "quantity": 2}],
+    "status": "Delayed",
+    "order_date": "2026-10-30",
+    "estimated_delivery": "2026-11-05",
+    "status_note": "Delayed at the regional hub."
+  },
+  {
+    "order_id": "ORD106",
+    "customer_name": "Karthik Subramanian",
+    "items": [{"name": "Yoga Mat", "quantity": 1}],
+    "status": "Cancelled",
+    "order_date": "2026-11-05",
+    "cancelled_on": "2026-11-07",
+    "status_note": "Cancelled at the customer's request."
+  },
+  {
+    "order_id": "ORD107",
+    "customer_name": "Divya Menon",
+    "items": [{"name": "Bluetooth Speaker", "quantity": 1}],
+    "status": "Returned",
+    "order_date": "2026-10-25",
+    "estimated_delivery": "2026-10-30",
+    "delivered_on": "2026-10-30",
+    "returned_on": "2026-11-06",
+    "status_note": "Return received at the warehouse."
+  },
+  {
+    "order_id": "ORD108",
+    "customer_name": "Vikram Rao",
+    "items": [{"name": "Smartwatch", "quantity": 1}],
+    "status": "Shipped",
+    "order_date": "2026-10-28",
+    "estimated_delivery": "2026-11-05",
+    "status_note": "Shipped from the warehouse."
+  }
+]
